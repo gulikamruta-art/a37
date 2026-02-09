@@ -10,7 +10,6 @@ animation: moveBox 3s infinite;
 @keyframes moveBox (
 from ( left: 0px; )
 to ( left: 300px; }
--
 </style>
 </head>
 <body>
